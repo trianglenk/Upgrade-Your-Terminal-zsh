@@ -2,10 +2,20 @@
 
 <div align="center">
   
-  <img src="zsh-ter.png" alt="Логотип проекта" width="85%">
+  <img src="zsh-ter.png" alt="Логотип проекта" width="90%">
 </div>
+## 💿 Устоновка
 
-sudo apt update
-
+Debian/Ubuntu
+```
 sudo apt install -y zsh git curl
+```
+Arch Linux
+```
+sudo pacman -Syu --needed zsh git curl
+
+```
+Fedora
+```
+sudo dnf install -y zsh git curl
 ```
