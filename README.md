@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="zsh-ter.png" alt="Project logo" width="90%">
+  <img src="zsh.png" alt="Project logo" width="90%">
 </div>
 
 <p align="center">
