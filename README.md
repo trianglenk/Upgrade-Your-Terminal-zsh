@@ -4,7 +4,7 @@
   
   <img src="zsh-ter.png" alt="Логотип проекта" width="90%">
 </div>
-## 💿 Устоновка
+** 💿 Устоновка
 
 Debian/Ubuntu
 ```
