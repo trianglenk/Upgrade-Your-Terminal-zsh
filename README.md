@@ -4,8 +4,8 @@
   
   <img src="zsh-ter.png" alt="Логотип проекта" width="90%">
 </div>
-** 💿 Устоновка
 
+<h1 align="center">💿 Устоновка</h1>
 Debian/Ubuntu
 ```
 sudo apt install -y zsh git curl
