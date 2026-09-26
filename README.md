@@ -1,7 +1,7 @@
-# Upgrade-Your-Terminal-zsh
+<h1 align="center">Upgrade-Your-Terminal-zsh</h1>
 
 <div align="center">
-  # Upgrade-Your-Terminal-zsh
+  
   <img src="zsh-ter.png" alt="Логотип проекта" width="85%">
 </div>
 
