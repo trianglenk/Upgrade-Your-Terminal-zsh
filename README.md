@@ -1,7 +1,7 @@
 # Upgrade-Your-Terminal-zsh
 
 <div align="center">
-  <img src="zsh-ter.png" alt="Логотип проекта" width="35%">
+  <img src="zsh-ter.png" alt="Логотип проекта" width="55%">
 </div>
 
 Настройка красивого и удобного терминала на **Arch Linux**, **Fedora** и **Ubuntu** с использованием Zsh, Oh My Zsh, Powerlevel10k и Nerd Fonts.
