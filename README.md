@@ -1,6 +1,8 @@
 Upgrade-Your-Terminal-zsh
 
-
+<div align="center">
+  <img src="zsh-ter.png" alt="Логотип проекта" width="95%">
+</div>
 
 
 
